@@ -1,2 +1,3 @@
-# terminal-themed-browser
-The provided code is a terminal-themed browser with tabs, an address bar, settings, and  Choose betwen my custom search or Google search. 
+The provided code represents a terminal-themed browser application built using PyQt5. The browser window features multiple tabs, an address bar, a settings menu, and the option to use either a custom search bar or the default Google search bar. Here is a brief description of the application:
+
+The terminal-themed browser allows users to browse the web with multiple tabs, enter URLs or search queries in the address bar, and navigate between different web pages. Users have the flexibility to choose between using their own custom search bar, tailored to their preferences, or opt to use MY OWN CUSTOM SEARCH BAR provided. Enjoy a versatile and efficient browsing experience with this terminal-themed browser.
